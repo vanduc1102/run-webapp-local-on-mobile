@@ -15,6 +15,8 @@ There is many solutions for this, you can try out some of below:
 Use `browser-sync-sol` folder
 A simple solution but works on both Android and iOS
 
+Command: `gulp`
+
 ### 2. Use transparent proxy with [Filternet](https://github.com/vanduc1102/filternet)
 
 Pros: Very fast
