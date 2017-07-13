@@ -18,7 +18,7 @@ A simple solution but works on both Android and iOS
 Command: `gulp`
 
 Or
-`browser-sync start -p http://local.dev
+` browser-sync start -p http://local.dev `
 
 ### 2. Use transparent proxy with [Filternet](https://github.com/vanduc1102/filternet)
 
